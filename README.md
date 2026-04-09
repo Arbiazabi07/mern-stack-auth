@@ -11,31 +11,31 @@ This is a complete full-stack authentication and CRUD application built with the
 ## ✨ Features
 
 ### Backend Features
-- ✅ User Registration with password hashing (bcryptjs)
-- ✅ User Login with JWT token generation
-- ✅ Password reset functionality with email (Nodemailer)
-- ✅ Protected routes with JWT verification middleware
-- ✅ Full CRUD operations for dashboard items
-- ✅ Dashboard statistics (total, active, pending, completed)
-- ✅ MySQL connection pool for better performance
-- ✅ SQL injection prevention using parameterized queries
-- ✅ Error handling middleware
-- ✅ CORS enabled for cross-origin requests
+-  User Registration with password hashing (bcryptjs)
+-  User Login with JWT token generation
+-  Password reset functionality with email (Nodemailer)
+-  Protected routes with JWT verification middleware
+-  Full CRUD operations for dashboard items
+-  Dashboard statistics (total, active, pending, completed)
+-  MySQL connection pool for better performance
+-  SQL injection prevention using parameterized queries
+-  Error handling middleware
+-  CORS enabled for cross-origin requests
 
 ### Frontend Features
-- ✅ Beautiful SparkTeen-themed UI with Tailwind CSS
-- ✅ Responsive design for mobile, tablet, and desktop
-- ✅ Login page with email/password and remember me
-- ✅ Registration page with validation
-- ✅ Forgot password and reset password pages
-- ✅ Dashboard with statistics cards
-- ✅ Add/Edit/Delete items functionality
-- ✅ Status update dropdown for each item
-- ✅ Loading states for all API calls
-- ✅ Success/Error message alerts
-- ✅ Protected routes with AuthContext
-- ✅ Automatic token injection in axios requests
-- ✅ 401 error handling with auto-logout
+-  Beautiful SparkTeen-themed UI with Tailwind CSS
+-  Responsive design for mobile, tablet, and desktop
+-  Login page with email/password and remember me
+-  Registration page with validation
+-  Forgot password and reset password pages
+-  Dashboard with statistics cards
+-  Add/Edit/Delete items functionality
+-  Status update dropdown for each item
+-  Loading states for all API calls
+-  Success/Error message alerts
+-  Protected routes with AuthContext
+-  Automatic token injection in axios requests
+-  401 error handling with auto-logout
 
 ## 🛠 Technology Stack
 
