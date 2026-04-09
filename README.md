@@ -5,9 +5,7 @@
 This is a complete full-stack authentication and CRUD application built with the MERN stack using MySQL as the database. The project features user authentication (registration, login, password reset) and a fully functional dashboard where authenticated users can manage their own data items.
 
 **Assignment Title:** MERN Stack Authentication & CRUD with MySQL  
-**Mentor:** Jacob Dennis  
-**Institution:** CampusPe  
-**Tech Stack:** MySQL, Express.js, React.js, Node.js  
+**Institution:** CampusPe   
 **Duration:** 2-3 Weeks
 
 ## 📚 Table of Contents
