@@ -63,76 +63,24 @@ This is a complete full-stack authentication and CRUD application built with the
 | dotenv | Environment variable management |
 | cors | Cross-origin resource sharing |
 
-## 📁 Project Structure
-mern-stack-auth/
-│
-├── backend/
-│ ├── config/
-│ │ └── db.js # MySQL connection configuration
-│ ├── controllers/
-│ │ ├── authController.js # Authentication logic
-│ │ └── itemController.js # CRUD operations logic
-│ ├── middleware/
-│ │ ├── auth.js # JWT verification middleware
-│ │ └── errorHandler.js # Global error handling
-│ ├── routes/
-│ │ ├── authRoutes.js # Authentication endpoints
-│ │ └── itemRoutes.js # CRUD endpoints
-│ ├── .env.example # Environment variables template
-│ ├── .gitignore # Git ignore file
-│ ├── database.sql # Database schema
-│ ├── package.json # Backend dependencies
-│ └── server.js # Entry point
-│
-├── frontend/
-│ ├── src/
-│ │ ├── api/
-│ │ │ ├── axios.js # Axios configuration
-│ │ │ ├── authApi.js # Auth API calls
-│ │ │ └── itemApi.js # Item API calls
-│ │ ├── components/
-│ │ │ ├── Login.jsx # Login page
-│ │ │ ├── Register.jsx # Registration page
-│ │ │ ├── Dashboard.jsx # Dashboard with CRUD
-│ │ │ ├── ForgotPassword.jsx
-│ │ │ ├── ResetPassword.jsx
-│ │ │ ├── ProtectedRoute.jsx
-│ │ │ └── PublicRoute.jsx
-│ │ ├── context/
-│ │ │ └── AuthContext.jsx # Global auth state
-│ │ ├── App.jsx # Main app component
-│ │ ├── main.jsx # Entry point
-│ │ └── index.css # Global styles
-│ ├── .env.example # Frontend env template
-│ ├── .gitignore
-│ ├── index.html
-│ ├── package.json
-│ ├── tailwind.config.js
-│ ├── postcss.config.js
-│ └── vite.config.js
-│
-├── screenshots/ # Application screenshots
-├── database.sql # Complete database schema
-└── README.md # Project documentation
-
 # Clone repository
-git clone https://github.com/Arbiazabi07/mern-stack-auth.git
+git clone https://github.com/Arbiazabi07/mern-stack-auth.git <br>
 cd mern-stack-auth
 
 # Backend setup
-cd backend
-npm install
-cp .env.example .env
-# Edit .env with your credentials
+cd backend <br>
+npm install <br>
+cp .env.example .env <br>
+# Edit .env with your credentials <br>
 npm run dev
 
 # Frontend setup (new terminal)
-cd frontend
-npm install
-cp .env.example .env
+cd frontend <br>
+npm install <br>
+cp .env.example .env <br>
 npm run dev
 
 # Database setup
-mysql -u root -p
+mysql -u root -p <br>
 source backend/database.sql
 
