@@ -8,27 +8,6 @@ This is a complete full-stack authentication and CRUD application built with the
 **Institution:** CampusPe   
 **Duration:** 2-3 Weeks
 
-## 📚 Table of Contents
-
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation Guide](#installation-guide)
-- [Database Setup](#database-setup)
-- [Environment Variables](#environment-variables)
-- [API Documentation](#api-documentation)
-- [Running the Application](#running-the-application)
-- [Screenshots](#screenshots)
-- [Security Features](#security-features)
-- [Best Practices Implemented](#best-practices-implemented)
-- [Bonus Features](#bonus-features)
-- [Troubleshooting](#troubleshooting)
-- [Frequently Asked Questions](#frequently-asked-questions)
-- [Grading Criteria](#grading-criteria)
-- [Submission Guidelines](#submission-guidelines)
-- [License](#license)
-
 ## ✨ Features
 
 ### Backend Features
