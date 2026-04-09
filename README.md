@@ -89,8 +89,13 @@ source backend/database.sql
 ## Login Page
 <img width="1923" height="990" alt="Screenshot 2026-04-09 at 12 54 28 PM" src="https://github.com/user-attachments/assets/c87ffdcf-5a7f-46d3-acf1-895719dd3939" />
 
-## Registration page
+## Registration Page
 <img width="1913" height="990" alt="Screenshot 2026-04-09 at 12 55 30 PM" src="https://github.com/user-attachments/assets/03708f01-5f52-40d4-92e4-987dd955c51e" />
+
+## Forgot Password Page
+<img width="1896" height="980" alt="Screenshot 2026-04-09 at 1 00 32 PM" src="https://github.com/user-attachments/assets/d1bf9731-90d5-43c8-83c6-b0e2139893af" />
+
+
 
 ## Dashboard with items
 <img width="1322" height="990" alt="Screenshot 2026-04-09 at 1 00 05 PM" src="https://github.com/user-attachments/assets/c21814f4-bc6f-477e-a7cd-da485250e113" />
