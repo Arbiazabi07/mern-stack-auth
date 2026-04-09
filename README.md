@@ -86,7 +86,41 @@ source backend/database.sql
 
 # Screenshots
 
-##Login Page
-<img src="Screenshot 2026-04-09 at 12.54.28 PM.png" alt="Description" width="500">
+## Login Page
+<img width="1923" height="990" alt="Screenshot 2026-04-09 at 12 54 28 PM" src="https://github.com/user-attachments/assets/c87ffdcf-5a7f-46d3-acf1-895719dd3939" />
+
+## Registration page
+<img width="1913" height="990" alt="Screenshot 2026-04-09 at 12 55 30 PM" src="https://github.com/user-attachments/assets/03708f01-5f52-40d4-92e4-987dd955c51e" />
+
+## Dashboard with items
+<img width="1322" height="649" alt="Screenshot 2026-04-09 at 1 00 05 PM" src="https://github.com/user-attachments/assets/c21814f4-bc6f-477e-a7cd-da485250e113" />
+
+## Add item form
+<img width="1918" height="987" alt="Screenshot 2026-04-09 at 12 56 59 PM" src="https://github.com/user-attachments/assets/e4cb2b22-60aa-4edb-94c7-64929e2503b4" />
+
+## Edit item functionality
+<img width="1915" height="985" alt="Screenshot 2026-04-09 at 12 57 18 PM" src="https://github.com/user-attachments/assets/16f4b7c6-c5d1-413e-ae2a-c4fdb1bb88c8" />
+
+## Delete confirmation
+<img width="1902" height="972" alt="Screenshot 2026-04-09 at 12 58 18 PM" src="https://github.com/user-attachments/assets/78a139df-3e79-4f3c-b3fb-97c6fffb6fb2" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-09 at 12 58 21 PM (2)" src="https://github.com/user-attachments/assets/d8805b54-d245-4a37-ad49-fc9f81fc9aa9" />
+
+## MySQL database showing tables with data
+
+### Items Table
+<img width="1288" height="623" alt="Screenshot 2026-04-09 at 1 10 06 PM" src="https://github.com/user-attachments/assets/75ee857b-c45f-4a47-ba88-3f1967b961fc" />
+
+### Users Table
+<img width="1817" height="595" alt="Screenshot 2026-04-09 at 1 10 31 PM" src="https://github.com/user-attachments/assets/ef81416e-5d88-493e-b353-bc75425075cc" />
+
+
+
+
+
+
+
+
+
 
 
