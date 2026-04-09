@@ -74,7 +74,7 @@ cp .env.example .env <br>
 # Edit .env with your credentials <br>
 npm run dev
 
-# Frontend setup (new terminal)
+# Frontend setup
 cd frontend <br>
 npm install <br>
 cp .env.example .env <br>
